@@ -8,7 +8,7 @@
 ## About Me
 - **Student ID**: 1151403
 - **Student Name**: 陳賢儒
-- **Student E-mail**: 陳賢儒<s1151403@mail.yzu.edu.tw>
+- **Student E-mail**: [陳賢儒]<s1151403@mail.yzu.edu.tw>
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
